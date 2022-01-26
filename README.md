@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloVolonterio&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GonzaloVolonterio GitHub stats](https://github-readme-stats.vercel.app/?username=GonzaloVolonterio&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gonzalo Volonterio GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaloVolonterio&hide=java,html,css&=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
