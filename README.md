@@ -19,7 +19,7 @@
 
 ##  Let's connect :speech_balloon:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/volonteriogonzalo)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GonzaloVolonterio)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volonteriogonzalo.dev@gmail.com)
 <!--
 **GonzaloVolonterio/GonzaloVolonterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
