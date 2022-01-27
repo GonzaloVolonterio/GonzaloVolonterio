@@ -12,18 +12,21 @@
 
 ---
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalovolonterio&hide&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gonzalo Volonterio GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalovolonterio&hide&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ##  Let's connect :speech_balloon:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GonzaloVolonterio)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:volonteriogonzalo.dev@gmail.com)
+
+---
+
 <!--
 **GonzaloVolonterio/GonzaloVolonterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
