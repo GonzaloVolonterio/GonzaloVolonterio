@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Gonzalo Volonterio,
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Gonzalo Volonterio.
+
+
 
 ---
 
@@ -21,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/>
 
 ---
+
+
 
 ## &#x1f4c8; My GitHub Stats
 
