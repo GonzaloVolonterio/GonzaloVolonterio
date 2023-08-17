@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more than 3 years of experience in web development and mobile applications.I believe that technology and programming are tools powerful that allow us to create innovative solutions and transform the world around us. With the knowledge and the creativity right, we can build a more inclusive future, sustainable and prosperous for all. My main priority is to keep up to date with the latest industry trends updating myself to develop and grow professionally. I have ability to work in group,empathy and problem solving.!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more than 3 years of experience in web development and mobile applications.
+### I believe that technology and programming are tools powerful that allow us to create innovative solutions and transform the world around us. With the knowledge and the creativity right, we can build a more inclusive future, sustainable and prosperous for all. 
+### My main priority is to keep up to date with the latest industry trends updating myself to develop and grow professionally. I have ability to work in group,empathy and problem solving.!
 
 ---
 
