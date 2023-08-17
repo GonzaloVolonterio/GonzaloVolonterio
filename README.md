@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more than 3 years of experience in web development and mobile applications.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Gonzalo Volonterio, a Full Stack Developer with more than 3 years of experience in web development and mobile applications.
 ---
 
 🧰 Toolbox
