@@ -38,6 +38,9 @@
 
 ## https://personal-portfolio-website-nextjs.netlify.app/
 
+![imgportfolio](https://github.com/GonzaloVolonterio/GonzaloVolonterio/assets/64506662/c8bea9ab-6305-4a88-a77b-f9fb97027770)
+
+
 ---
 
 ##  Let's connect :speech_balloon:
